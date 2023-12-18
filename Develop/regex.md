@@ -1,6 +1,5 @@
 # Title (replace with your title)
 
-This is a test!
 Introductory paragraph (replace this with your text)
 
 ## Summary
