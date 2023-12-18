@@ -1,10 +1,11 @@
-# Title (replace with your title)
+# REGEX (an intro)
 
-Introductory paragraph (replace this with your text)
+Introduction to regex. A brief explination.
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+A regular expression, commonly referred to as regex or regexp, is a sequence of characters that define a search pattern. It is mainly used for text-based searching and string manipulation.
+Regular expressions are often used in web development to validate user input or find specific strings of characters within larger blocks of text. They are also widely used in data science, natural language processing, and text analytics.
 
 ## Table of Contents
 
