@@ -58,4 +58,3 @@ Lookahead and lookbehind, collectively called “lookaround”, are zero-length 
 Arun Prasad - https://www.linkedin.com/in/arun-prasad-9071274/
 
 https://github.com/arunp44 - My github profile
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
