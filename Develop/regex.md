@@ -58,3 +58,16 @@ Lookahead and lookbehind, collectively called “lookaround”, are zero-length 
 Arun Prasad - https://www.linkedin.com/in/arun-prasad-9071274/
 
 https://github.com/arunp44 - My github profile
+
+
+
+
+
+
+
+Resources:
+
+https://www.regular-expressions.info/tutorial.html
+https://regexr.com/
+https://www.variables.sh/what-is-regex/
+https://stringr.tidyverse.org/articles/regular-expressions.html
