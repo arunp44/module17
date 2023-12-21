@@ -67,7 +67,7 @@ https://github.com/arunp44 - My github profile
 
 Resources:
 
-https://www.regular-expressions.info/tutorial.html
-https://regexr.com/
-https://www.variables.sh/what-is-regex/
-https://stringr.tidyverse.org/articles/regular-expressions.html
+https://www.regular-expressions.info/tutorial.html;
+https://regexr.com/;
+https://www.variables.sh/what-is-regex/;
+https://stringr.tidyverse.org/articles/regular-expressions.html;
